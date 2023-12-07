@@ -15,7 +15,8 @@ const Graph = () => {
     y2="50"
     stroke="green"
     strokeWidth="20" className="displayBars" id="l-ORG">
-       <animate attributeName="x2" fill="freeze" from="0" to="479.686593151479977" dur="2s"></animate>
+    <animate attributeName="x2" fill="freeze" from="0" to="479.686593151479977" dur="2s"></animate>
+            {/*animate tag*/}
         </line>
     <text x="-90" y="50" style={{stroke: 'black'}} className="textButton" id="t-ORG" fontFamily="Calibri">ORG</text>
 </g>
