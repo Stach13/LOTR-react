@@ -118,13 +118,8 @@ div.object {
   height: 400px;
 }
 
-object {
-  width: 100%;
-  text-align: center;
-}
-
 p.object {
-  margin-right: 100px;
+  margin-right: 25px;
   width: 30%;
   height: auto;
 }
