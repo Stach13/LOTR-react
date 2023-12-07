@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LOTR-react/static/css/main.ac8f4de9.css",
-    "main.js": "/LOTR-react/static/js/main.c8674fb1.js",
+    "main.css": "/LOTR-react/static/css/main.c4433b62.css",
+    "main.js": "/LOTR-react/static/js/main.1d8bbe9d.js",
     "static/js/787.307c8e49.chunk.js": "/LOTR-react/static/js/787.307c8e49.chunk.js",
     "static/media/the_return_of_the_king.jpg": "/LOTR-react/static/media/the_return_of_the_king.53e64dd427fd0a0190f9.jpg",
     "static/media/rosie-and-sam.jpg": "/LOTR-react/static/media/rosie-and-sam.f9bff4b21f619c0ccf60.jpg",
@@ -11,17 +11,18 @@
     "static/media/boromir.jpg": "/LOTR-react/static/media/boromir.457e28cb20145d36d760.jpg",
     "static/media/header_img.jpg": "/LOTR-react/static/media/header_img.6dbeb0af186cd6a81419.jpg",
     "static/media/fellowship.jpg": "/LOTR-react/static/media/fellowship.0184248e3a7c0c9ed25e.jpg",
+    "static/media/python_view.png": "/LOTR-react/static/media/python_view.c3ab13ec4fa9111e3c17.png",
     "static/media/prancing-pony.jpg": "/LOTR-react/static/media/prancing-pony.6cf82d1b1f7aed9ec408.jpg",
     "static/media/lotr.xquery.png": "/LOTR-react/static/media/lotr.xquery.f6bfed293ce012fa6590.png",
     "static/media/mermaid_flowchart.png": "/LOTR-react/static/media/mermaid_flowchart.fe31015ce56a85b0b55c.png",
     "static/media/two_towers.jpg": "/LOTR-react/static/media/two_towers.1dd78853546a0a65c671.jpg",
     "index.html": "/LOTR-react/index.html",
-    "main.ac8f4de9.css.map": "/LOTR-react/static/css/main.ac8f4de9.css.map",
-    "main.c8674fb1.js.map": "/LOTR-react/static/js/main.c8674fb1.js.map",
+    "main.c4433b62.css.map": "/LOTR-react/static/css/main.c4433b62.css.map",
+    "main.1d8bbe9d.js.map": "/LOTR-react/static/js/main.1d8bbe9d.js.map",
     "787.307c8e49.chunk.js.map": "/LOTR-react/static/js/787.307c8e49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac8f4de9.css",
-    "static/js/main.c8674fb1.js"
+    "static/css/main.c4433b62.css",
+    "static/js/main.1d8bbe9d.js"
   ]
 }
