@@ -87,6 +87,11 @@ table:hover {
 
 }
 
+.senior_project {
+  background-color: lightseagreen;
+}
+
+
 .table-desc {
   width: 80%;
   margin-top: 50px;

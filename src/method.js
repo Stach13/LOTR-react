@@ -1,6 +1,7 @@
 import React from "react";
 import lotr_xquery from "./images/background-img/lotr.xquery.png";
 import flowchart from "./images/background-img/mermaid_flowchart.png";
+import Python_view from "./images/background-img/python_view.png";
 
 const Method = () => {
     return (
@@ -27,7 +28,7 @@ const Method = () => {
                     algorithm by creating a list called <code><u>patterns</u></code> . This then fixed our entities along with the
                     definition functions to display the books data visualization. </p>
                 <h2>Python-View</h2>
-                <center><img key="" src="" alt="" width="1000"
+                <center><img src={Python_view} alt="" width="1000"
                     className="center"/></center>
 
                 <h2>Link to the "code view"</h2>
@@ -43,6 +44,17 @@ const Method = () => {
                         className="table-desc">Jimin: She was in charge and responsible for the website and administering the general look of it. She put most data on the homepage.</p>
                     <p
                         className="table-desc">As a group including Dr. B: We all worked on organizing the Spacy package in python as well as adjusting a few things with Xquery.</p></p>
+
+                <div className="senior_project">
+                    <h2>Senior Project</h2>
+                    <p className="table-desc">Noah: After using spaCy as a python plugin with the original lord of the rings project, my next mission was to make the data on this website dynamic and easier to visualize for viewers.
+                    By changing the UI using vanilla JavaScript, I was able to draw strong depictions between each SVG graphic and what they represent. For example, with the map of Middle Earth on the Analysis page, I was able to tie together different named entities based on where they are
+                    located in the Lord of the Rings universe.</p>
+
+                    <p className="table-desc">Overall, within this process, I created a functional svg graph on click, a functional Image-map locator onclick of each Spacy NER, and a quotes generator at the top of the website.</p>
+
+                    <p className="table-desc">Of course, none of this would've been possible without some assistance in learning vanilla JS and React.js. My professor Dr. B, was a huge help on the programming side, especially when helping me tackle each JavaScript obstacle.</p>
+                </div>
             </div>
         </div>
     );
