@@ -12,7 +12,7 @@ const Home = () => {
                 <rect x="350" y="100" width="475" height="75" fill="blue">
                     <animate attributeName="width" dur="1s" calcMode="spline"  values="10; 100; 200; 400; 475;" keySplines="0.1 0.8 0.4 1; 0.1 0.8 0.4 1; 0.1 0.8 0.4 1; 0.1 0.8 0.4 1;" keyTimes="0; 0.04; 0.08; 0.12; 1"></animate>
                 </rect>
-                <text x="350" y="150" font-size="35" font-family="Calibri" fill="white">SpaCy "Lord of the Rings" Project</text>
+                <text x="350" y="150" fontSize="35" fontFamily="Calibri" fill="white">SpaCy "Lord of the Rings" Project</text>
             </svg>
             <h2>Noah Stachera, Jimin Kim and Min Wu </h2>
             <a href="https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text" className="click-box">Lord of the Rings Text File</a>

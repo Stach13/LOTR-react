@@ -4,7 +4,7 @@ import ORG_network from "./images/background-img/ORG-network.png";
 
 const Graph = () => {
     return (
-        <div>
+        <div className='graph'>
     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <use type="text/javascript" xlinkHref="interact.js"/>
         <g transform="translate(130, 50)">
@@ -15,7 +15,7 @@ const Graph = () => {
     y2="50"
     stroke="green"
     strokeWidth="20" className="displayBars" id="l-ORG">
-    <animate attributeName="x2" fill="freeze" from="0" to="479.686593151479977" dur="2s"></animate>
+    <animate attributeName="x2" fill="freeze" from="0" to="479.686593151479977" dur="8s"></animate>
             {/*animate tag*/}
         </line>
     <text x="-90" y="50" style={{stroke: 'black'}} className="textButton" id="t-ORG" fontFamily="Calibri">ORG</text>
@@ -27,7 +27,7 @@ const Graph = () => {
               y2="100"
               stroke="orange"
               strokeWidth="20" className="displayBars" id="l-GPE">
-            <animate attributeName="x2" from="0" to="236.796285548461985" dur="10s"></animate>
+         <animate attributeName="x2" from="0" to="236.796285548461985" dur="8s"></animate>
         </line>
         <text x="-90" y="100" style={{stroke: "black"}} className="textButton" id="t-GPE" fontFamily="Calibri">GPE</text>
     </g>
@@ -38,7 +38,7 @@ const Graph = () => {
               y2="150"
               stroke="darkblue"
               strokeWidth="20" className="displayBars" id="l-NORP">
-           <animate attributeName="Width" from="0" to="14.219384793964016" dur="2s"></animate>
+         <animate attributeName="x2" from="0" to="14.219384793964016" dur="8s"></animate>
         </line>
         <text x="-90" y="150" style={{stroke: "black"}} className="textButton" id="t-NORP" fontFamily="Calibri">NORP</text>
     </g>
@@ -49,7 +49,7 @@ const Graph = () => {
               y2="200"
               stroke="aqua"
               strokeWidth="20" className="displayBars" id="l-LOC">
-           <animate attributeName="Width" from="0" to="211.404526987811956" dur="2s"></animate>
+         <animate attributeName="x2" from="0" to="211.404526987811956" dur="8s"></animate>
         </line>
         <text x="-90" y="200" style={{stroke: "black"}} className="textButton" id="t-LOC" fontFamily="Calibri">LOC</text>
     </g>
@@ -60,7 +60,7 @@ const Graph = () => {
               y2="250"
               stroke="lightyellow"
               strokeWidth="20" className="displayBars" id="l-FAC">
-          <animate attributeName="Width" from="0" to="57.893209518282066" dur="2s"></animate>
+         <animate attributeName="x2" from="0" to="57.893209518282066" dur="8s"></animate>
         </line>
         <text x="-90" y="250" style={{stroke: "black"}} className="textButton" id="t-FAC" fontFamily="Calibri">FAC</text>
     </g>

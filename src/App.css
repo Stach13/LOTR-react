@@ -118,8 +118,13 @@ div.object {
   height: 400px;
 }
 
+.graph {
+  width: 100%;
+  text-align: center;
+}
+
 p.object {
-  margin-right: 25px;
+  margin-right: 100px;
   width: 30%;
   height: auto;
 }
