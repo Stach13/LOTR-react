@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LOTR-react/static/css/main.c4433b62.css",
-    "main.js": "/LOTR-react/static/js/main.1d8bbe9d.js",
+    "main.css": "/LOTR-react/static/css/main.6b6a97b8.css",
+    "main.js": "/LOTR-react/static/js/main.39cdec95.js",
     "static/js/787.307c8e49.chunk.js": "/LOTR-react/static/js/787.307c8e49.chunk.js",
     "static/media/the_return_of_the_king.jpg": "/LOTR-react/static/media/the_return_of_the_king.53e64dd427fd0a0190f9.jpg",
     "static/media/rosie-and-sam.jpg": "/LOTR-react/static/media/rosie-and-sam.f9bff4b21f619c0ccf60.jpg",
@@ -17,12 +17,12 @@
     "static/media/mermaid_flowchart.png": "/LOTR-react/static/media/mermaid_flowchart.fe31015ce56a85b0b55c.png",
     "static/media/two_towers.jpg": "/LOTR-react/static/media/two_towers.1dd78853546a0a65c671.jpg",
     "index.html": "/LOTR-react/index.html",
-    "main.c4433b62.css.map": "/LOTR-react/static/css/main.c4433b62.css.map",
-    "main.1d8bbe9d.js.map": "/LOTR-react/static/js/main.1d8bbe9d.js.map",
+    "main.6b6a97b8.css.map": "/LOTR-react/static/css/main.6b6a97b8.css.map",
+    "main.39cdec95.js.map": "/LOTR-react/static/js/main.39cdec95.js.map",
     "787.307c8e49.chunk.js.map": "/LOTR-react/static/js/787.307c8e49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4433b62.css",
-    "static/js/main.1d8bbe9d.js"
+    "static/css/main.6b6a97b8.css",
+    "static/js/main.39cdec95.js"
   ]
 }
