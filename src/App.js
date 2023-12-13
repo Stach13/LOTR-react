@@ -12,9 +12,6 @@ import {NavBar} from "./NavBar";
 function App(){
   return (
     <>
-    <div className="header-img">
-      <h1>Home</h1>
-    </div>
       <Router>
         <NavBar/>
         <Routes>
@@ -26,5 +23,6 @@ function App(){
     </>
     );
 }
+
 
 export default App;
